@@ -1,4 +1,4 @@
-# -BI-Analysis-on-NYC-Food-Inspection
+# BI-Analysis-on-NYC-Food-Inspection
 Performed analysis on NYC Food Inspection dataset that contains food inspections carried out in the five boroughs of New York from 2017 till March 2022 
 
 
