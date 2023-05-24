@@ -3,5 +3,7 @@ Performed analysis on NYC Food Inspection dataset that contains food inspections
 
 
 • Designed dimensional models to create Fact and dimensional tables respective to New York city 
-• Executed profiling, transformations using regular expressions and parsing, and Cleaning on Alteryx 
-• Created reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time (https://public.tableau.com/app/profile/sindhuja.vaddi/viz/BIAnalysisonNYCfoodInspections/NYC-FoodInspectionDashboards)
+• Utilized Alteryx to execute data profiling, transformations employing regular expressions and parsing techniques, and data-cleaning operations
+• Created an extensive collection of 100+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
+
+(https://public.tableau.com/app/profile/sindhuja.vaddi/viz/BIAnalysisonNYCfoodInspections/NYC-FoodInspectionDashboards)
